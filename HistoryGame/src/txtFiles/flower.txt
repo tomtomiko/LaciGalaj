@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root><caption>c2</caption><briefInterpretation>b2</briefInterpretation><symbols>s2dsfb</symbols></root>
